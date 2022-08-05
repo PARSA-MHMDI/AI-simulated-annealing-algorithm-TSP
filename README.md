@@ -1,4 +1,4 @@
-# AI-simulated-annealing-algorithm-TSP
+# Simulated Annealing Algorithm-TSP
 This repository contains programs using classical Machine Learning algorithms to Artificial Intelligence implemented from scratch and Solving traveling-salesman problem (TSP) using an goal-based AI agent.
 
 This project is about finding a solution to the traveling-salesman problem (TSP) using a so called goal-based AI agent. The goal is to find a cycle (a roundtrip) which visits every city once, while traveling the minimal possible distance.
